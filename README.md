@@ -2,8 +2,6 @@
 
 In this project, I analyze demographic data from Bertelsmann by building using: 
 
- , . Then, you'll apply what you've learned on a third dataset with demographics information for targets of a marketing campaign for the company, and use a model to predict which individuals are most likely to convert into becoming customers for the company.
-
     I. Unsupervised learning techniques
       - Perform customer segmentation
       - Identify the parts of the population that best describe the core customer base of the companys
