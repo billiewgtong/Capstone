@@ -9,9 +9,10 @@ In this project, I analyze demographic data from Bertelsmann by using:
     II. Supervised learning techniques
       - Predict which individuals are most likely to convert into becoming customers
 
-## Files Used
+## Files Used and Blog
 
      * 'Arvato Project Workbook.ipynb': Consists of analytical work. 
+     * Create a customer segmentation report blog on Medium: https://medium.com/@billie.wg.tong/create-a-customer-segmentation-report-for-arvato-financial-services-e87f3cb0fd45
 
 ## Data
 ```
