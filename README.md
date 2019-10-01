@@ -1,6 +1,6 @@
 # Capstone
 
-In this project, I analyze demographic data from Bertelsmann by building using: 
+In this project, I analyze demographic data from Bertelsmann by using: 
 
     I. Unsupervised learning techniques
       - Perform customer segmentation
